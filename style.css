@@ -152,7 +152,7 @@ body {
 
 /* media Query */
 
-@media screen and (max-width: 405px) {
+@media screen and (max-width: 570px) {
 
   .hero-description {
     font-size: 1.2rem;
